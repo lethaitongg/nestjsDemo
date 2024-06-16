@@ -13,7 +13,7 @@ $ npm install
 
 ## Configuration
 
-Add your application configuration to your `.local.env` file in the root of your project:
+Add your application configuration to your `.env.local` file in the root of your project:
 
 ```shell
 DB_TYPE=YOUR_DATABASE_TYPE
